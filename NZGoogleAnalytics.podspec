@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   
   s.authors = { 'Bruno Tortato Furtado' => 'bruno.furtado@gruponzn.com' }
   
-  s.dependency 'GoogleAnalytics-iOS-SDK'
+  s.dependency 'GoogleAnalytics'
   s.dependency 'NZBundle'
   s.source_files = 'NZGoogleAnalytics/*.{h,m}'
   s.source = { :git => 'https://github.com/NZN/NZGoogleAnalytics.git', :tag => '0.0.8' }
