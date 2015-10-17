@@ -14,5 +14,5 @@ Pod::Spec.new do |s|
   s.dependency 'GoogleAnalytics'
   s.dependency 'NZBundle'
   s.source_files = 'NZGoogleAnalytics/*.{h,m}'
-  s.source = { :git => 'https://github.com/NZN/NZGoogleAnalytics.git', :tag => '0.0.8' }
+  s.source = { :git => 'https://github.com/michelalbers/NZGoogleAnalytics.git', :tag => '0.0.8' }
 end
